@@ -9,7 +9,7 @@ npm i
 Для сборки спрайта:
 
 ```bash
-gulp svg-sprite
+gulp svgsprite
 ```
 
 
