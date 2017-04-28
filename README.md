@@ -6,10 +6,10 @@
 npm i
 ```
 
-Для сборки спрайта, запуска демки и автообновления:
+Для сборки спрайта:
 
 ```bash
-grunt
+gulp svg-sprite
 ```
 
 
@@ -21,9 +21,3 @@ grunt
 `/img/sprite.svg` — собираемый спрайт.
 
 
-
-## Прочее
-
-Требуется [nodeJS](https://nodejs.org/en/).
-
-Если ранее не работали с консолью, [вот статья](http://nicothin.ru/page/console-windows) для  пользователей windows.
